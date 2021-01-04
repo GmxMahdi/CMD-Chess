@@ -1,4 +1,4 @@
-# CMD-Chess
+# Command Prompt Chess
 
 This is a mini 2-Player Chess game that allows you to play with your friends on a command line.
 There is currently no AI integrated, so you have to find a friend to play with!
